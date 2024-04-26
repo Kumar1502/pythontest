@@ -1,0 +1,4 @@
+principal,interest_rate,time,invevstment_type,future_value
+5000,18,12,sip,3827196.18
+100000,15,18,lumpsum,1197374.79
+100000,18,18,lumpsum,1967325.09
